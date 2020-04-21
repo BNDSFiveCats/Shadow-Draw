@@ -1,5 +1,5 @@
 # Shadow-Draw
-create sculptural ghost image draft by specify the image
+create sculptural ghost image draft by specify image
 
 # models
 numpy,opency-python
