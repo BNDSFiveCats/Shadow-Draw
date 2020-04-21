@@ -9,7 +9,7 @@ run shadowDraw.py to create drafts.
 
 <img src="https://github.com/BNDSFiveCats/Shadow-Draw/blob/master/rm_data/146b831bd0103fa981b4945ea0ea082.png" width=500>
 
-# Without sculpt, do it simply
+## Without sculpting, simply make it
 <img src="https://github.com/BNDSFiveCats/Shadow-Draw/blob/master/rm_data/smp.jpg" height=300>&nbsp;<img src="https://github.com/BNDSFiveCats/Shadow-Draw/blob/master/rm_data/smp.gif" height=300>
 
 # origin
